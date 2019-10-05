@@ -22,10 +22,9 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 
 # Contribute
 Add your name & social network links to this repository!
-### Navin Keetarut (Example)
- - [Link 1](www.facebook.com/navin-keetarut)
- - [Link 2](www.example.com) 
- - [Link 3](www.example.com)
+### Navin Keetarut
+ - [Facebook](https://www.facebook.com/navin.keetarut)
+ - [GitHub](https://github.com/NavinKeetarut)
  
  
 
