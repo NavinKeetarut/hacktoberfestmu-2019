@@ -31,6 +31,10 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
 
+### Nythiennzo
+- [GitHub](github.com/Nythiennzo)
+- [Twitter](twitter.com/Nythiennzo)
+
 ### Shravan Dwarka
 - [GitHub](github.com/shravanSD)
 - [Twitter](twitter.com/shravandwarka)
