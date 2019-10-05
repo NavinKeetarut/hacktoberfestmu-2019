@@ -36,3 +36,7 @@ Add your name & social network links to this repository!
 - [Twitter](twitter.com/shravandwarka)
 - [Facebook](facebook.com/sudhveer)
 - [Instagram](instragram.com/shravandwarka)
+
+### Cedric Poilly (cedpoilly)
+- [GitHub](github.com/cedpoilly)
+- [Twitter](twitter.com/cedpoilly)
