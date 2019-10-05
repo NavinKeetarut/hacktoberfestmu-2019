@@ -34,3 +34,13 @@ Add your name & social network links to this repository!
 ### Nythiennzo
 - [GitHub](github.com/Nythiennzo)
 - [Twitter](twitter.com/Nythiennzo)
+
+### Shravan Dwarka
+- [GitHub](github.com/shravanSD)
+- [Twitter](twitter.com/shravandwarka)
+- [Facebook](facebook.com/sudhveer)
+- [Instagram](instragram.com/shravandwarka)
+
+### Cedric Poilly (cedpoilly)
+- [GitHub](github.com/cedpoilly)
+- [Twitter](twitter.com/cedpoilly)
